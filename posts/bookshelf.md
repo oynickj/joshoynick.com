@@ -1,12 +1,14 @@
 ---
 title: 'Bookshelf'
-date: '2021-12-28'
+date: '2022-01-03'
 ---
 
 Currently reading: 
-- [Snow Crash](https://www.amazon.com/Snow-Crash-Novel-Neal-Stephenson-ebook/dp/B000FBJCJE)
+- [The Boys in The Boat](https://www.amazon.com/dp/B00CBQG0D2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 Read:
+
+- [Snow Crash](https://www.amazon.com/Snow-Crash-Novel-Neal-Stephenson-ebook/dp/B000FBJCJE)
 
 - [The Infinite Machine](https://www.amazon.com/dp/B07X8HS2WC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
