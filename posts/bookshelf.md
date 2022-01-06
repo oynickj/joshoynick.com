@@ -8,6 +8,8 @@ Currently reading:
 
 Read:
 
+- [The Midnight Library: A Novel](https://www.amazon.com/Midnight-Library-Novel-Matt-Haig-ebook/dp/B085BVSXS9)
+
 - [Snow Crash](https://www.amazon.com/Snow-Crash-Novel-Neal-Stephenson-ebook/dp/B000FBJCJE)
 
 - [The Infinite Machine](https://www.amazon.com/dp/B07X8HS2WC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
