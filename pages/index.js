@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi! I'm Josh. You can e-mail me at oynickj@gmail.com, or find me on <a href="https://www.twitter.com/oynickj">Twitter</a>.
+        <p>Hi! I'm Josh. You can e-mail me at oynickj@gmail.com, or find me on <a href="https://www.twitter.com/oynickj">Twitter</a> and <a href="https://www.instagram.com/oynickj">Instagram</a>.
         </p>
         <p>I built this site using <a href="https://nextjs.org/learn/basics/create-nextjs-app">NextJS</a> and <a href="https://vercel.com/">Vercel</a>.</p>
       </section>
