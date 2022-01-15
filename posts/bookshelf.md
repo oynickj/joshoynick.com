@@ -1,12 +1,15 @@
 ---
 title: 'Bookshelf'
-date: '2022-01-03'
+date: '2022-01-15'
 ---
 
 Currently reading: 
-- [The Boys in The Boat](https://www.amazon.com/dp/B00CBQG0D2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+- [The Dream Machine](https://www.amazon.com/dp/B07GBCX7YC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 Read:
+
+- [The Boys in The Boat](https://www.amazon.com/dp/B00CBQG0D2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 - [The Midnight Library: A Novel](https://www.amazon.com/Midnight-Library-Novel-Matt-Haig-ebook/dp/B085BVSXS9)
 
