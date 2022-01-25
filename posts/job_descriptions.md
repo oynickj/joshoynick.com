@@ -52,7 +52,7 @@ Docker for containerization
 GitHub for source code management
 Buildkite for continuous integration
 
-- <details><summary>example 3 (click to expand)</summary>
+<details><summary>example 3 (click to expand)</summary>
 
   \```text
   weee
@@ -60,4 +60,13 @@ Buildkite for continuous integration
   weee
   \```
   `note the newlines and indents - and the \ was added in front of ``` to escape the code-section (remove it for actual use)`
+</details>
+
+<details>
+<summary>Intro:</summary>
+
+#### Sub intro
+
+Details
+
 </details>
