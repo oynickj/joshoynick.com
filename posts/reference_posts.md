@@ -1,6 +1,6 @@
 ---
 title: 'Inspiring Posts'
-date: '2022-01-24'
+date: '2022-01-25'
 ---
 
 Posts I learned from that I recommend and refer back to. If you'd like to share anything you find interesting or inspiring with me, reach me at oynickj@gmail.com
