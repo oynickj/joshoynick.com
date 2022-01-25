@@ -8,7 +8,7 @@ Posts I learned from that I recommend and refer back to. If you'd like to share 
 ### Job Advice
 - Sriram Krishnan: [Exec 101 - First 30 days](https://sriramk.com/exec-101-first-thirty-days)
 - Brie Wolfson: [New gig? Play company archaeologist and anthropologist](https://somanyrootlets.com/2019/11/11/new-gig-play-company-archaeologist-and-anthropologist/)
-
+- Brie Wolfson: [Writing in Public, Inside Your Company](https://koolaidfactory.com/writing-in-public-inside-your-company/#wpcf7-f85-o2)
 
 ---
 
