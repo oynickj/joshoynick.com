@@ -26,4 +26,4 @@ This is a way of open-sourcing my bookmarks. If you'd like to share anything you
 ---
 
 ### Art
-- [Sopranos Autopsy](https://sopranosautopsy.com/) extraordinary breakdowns of every episode
+- [Sopranos Autopsy](https://sopranosautopsy.com/): amazing breakdowns of every episode
