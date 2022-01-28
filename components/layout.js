@@ -3,11 +3,15 @@ import Image from 'next/image'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
+import { ThemeProvider } from 'next-themes'
+import { useTheme } from 'next-themes'
 
 const name = 'Josh Oynick'
 export const siteTitle = 'Josh Oynick'
 
 export default function Layout({ children, home }) {
+  
+  const {theme, setTheme} = useTheme()
   return (
     <div className={styles.container}>
       <Head>
@@ -68,6 +72,16 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
+
+      <ThemeProvider>
+        <div className={styles.footer}>
+          <button
+            onClick={() => setTheme(theme === 'light' ? 'dark' : 'light')}
+          >
+          {theme === 'light' ? '☀' : '☀' }
+          </button>
+        </div>
+      </ThemeProvider>
     </div>
   )
 }
