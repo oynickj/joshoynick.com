@@ -78,7 +78,7 @@ export default function Layout({ children, home }) {
           <button
             onClick={() => setTheme(theme === 'light' ? 'dark' : 'light')}
           >
-          {theme === 'light' ? '☀' : '☀' }
+          {theme === 'light' ? '☀' : '🔆' }
           </button>
         </div>
       </ThemeProvider>
