@@ -1,13 +1,16 @@
 ---
 title: 'Bookshelf'
-date: '2022-01-15'
+date: '2022-02-02'
 ---
 
 Currently reading: 
-
-- [The Dream Machine](https://www.amazon.com/dp/B07GBCX7YC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [The Score Takes Care of Itself (Bill Walsh)](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy-ebook/dp/B002G54Y04/)
 
 Read:
+
+- [Ask Your Developer (Jeff Lawson)](https://www.amazon.com/dp/B08425FV7S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) Feb 2022
+
+- [The Dream Machine](https://www.amazon.com/dp/B07GBCX7YC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) Jan 2022
 
 - [The Boys in The Boat](https://www.amazon.com/dp/B00CBQG0D2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) Jan 2022
 
