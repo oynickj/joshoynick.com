@@ -14,7 +14,7 @@ Read:
  
 - [Amp it Up: Leading for Hypergrowth](https://www.amazon.com/Amp-Unlocking-Hypergrowth-Expectations-Intensity/dp/1119836115) Mar 2022
 
-- [The Sirens of Titan](https://www.amazon.com/Sirens-Titan-Novel-Kurt-Vonnegut-ebook/dp/B0012RMVCK/ref=sr_1_1?keywords=sirens+of+titan&qid=1646610879&s=books&sprefix=sirens+of+titan%2Cstripbooks%2C68&sr=1-1)
+- [The Sirens of Titan](https://www.amazon.com/Sirens-Titan-Novel-Kurt-Vonnegut-ebook/dp/B0012RMVCK/ref=sr_1_1?keywords=sirens+of+titan&qid=1646610879&s=books&sprefix=sirens+of+titan%2Cstripbooks%2C68&sr=1-1) Feb 2022
 
 - [Ask Your Developer (Jeff Lawson)](https://www.amazon.com/dp/B08425FV7S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) Feb 2022
 
