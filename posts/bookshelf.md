@@ -1,16 +1,17 @@
 ---
 title: 'Bookshelf'
-date: '2022-03-07'
+date: '2022-04-14'
 ---
 
 Currently reading: 
 
-- [What You Do is Who You Are (Ben Horowitz)](https://www.amazon.com/What-You-Do-Is-Who-You-Are-audiobook/dp/B07X36GGQ7/ref=sr_1_1?keywords=what+you+do+is+who+you+are+ben+horowitz&qid=1646610920&s=books&sprefix=what+you+do+is%2Cstripbooks%2C71&sr=1-1)
- 
 - [The Score Takes Care of Itself (Bill Walsh)](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy-ebook/dp/B002G54Y04/)
 
 Read:
 
+
+- [What You Do is Who You Are (Ben Horowitz)](https://www.amazon.com/What-You-Do-Is-Who-You-Are-audiobook/dp/B07X36GGQ7/ref=sr_1_1?keywords=what+you+do+is+who+you+are+ben+horowitz&qid=1646610920&s=books&sprefix=what+you+do+is%2Cstripbooks%2C71&sr=1-1) Mar 2022
+ 
 - [Amp it Up: Leading for Hypergrowth](https://www.amazon.com/Amp-Unlocking-Hypergrowth-Expectations-Intensity/dp/1119836115) Mar 2022
 
 - [The Sirens of Titan](https://www.amazon.com/Sirens-Titan-Novel-Kurt-Vonnegut-ebook/dp/B0012RMVCK/ref=sr_1_1?keywords=sirens+of+titan&qid=1646610879&s=books&sprefix=sirens+of+titan%2Cstripbooks%2C68&sr=1-1)
