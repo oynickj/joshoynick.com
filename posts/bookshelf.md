@@ -9,7 +9,7 @@ Currently reading:
 
 Read:
 
-[The Score Takes Care of Itself (Bill Walsh)](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy-ebook/dp/B002G54Y04/) Apr 2022g
+[The Score Takes Care of Itself (Bill Walsh)](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy-ebook/dp/B002G54Y04/) Apr 2022
 
 [What You Do is Who You Are (Ben Horowitz)](https://www.amazon.com/What-You-Do-Is-Who-You-Are-audiobook/dp/B07X36GGQ7/ref=sr_1_1?keywords=what+you+do+is+who+you+are+ben+horowitz&qid=1646610920&s=books&sprefix=what+you+do+is%2Cstripbooks%2C71&sr=1-1) Mar 2022
  
