@@ -1,6 +1,6 @@
 ---
 title: 'Bookshelf'
-date: '2022-04-14'
+date: 'Last update: 2023-07-01'
 ---
 
 Currently reading: 
