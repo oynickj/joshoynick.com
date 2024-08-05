@@ -5,6 +5,8 @@ date: '2023-07-01'
 
 Currently reading: 
 
+[Henry J. Kaiser: Builder of the Modern American West] (https://www.amazon.com/Henry-J-Kaiser-Builder-American/dp/0292742266)]
+
 [The Art of Thinking Clearly (Rolf Dobelli)](https://www.amazon.com/The-Art-of-Thinking-Clearly-audiobook/dp/B00CIB3KVA/ref=sr_1_1?crid=1BIN75WVLDAZT&keywords=the+art+of+thinking+clearly+by+rolf+dobelli&qid=1688250251&sprefix=the+art+of+thinking+clearly+%2Caps%2C89&sr=8-1)
 
 Read:
