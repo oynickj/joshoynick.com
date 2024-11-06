@@ -5,6 +5,25 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 import { ThemeProvider } from 'next-themes'
 import { useTheme } from 'next-themes'
+import { SpeedInsights } from '@vercel/speed-insights/next';
+ 
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <head>
+        <title>Next.js</title>
+      </head>
+      <body>
+        {children}
+        <SpeedInsights />
+      </body>
+    </html>
+  );
+}
 
 const name = 'Josh Oynick'
 export const siteTitle = 'Josh Oynick'
