@@ -1,9 +1,11 @@
 ---
 title: 'Bookshelf'
-date: '2023-07-01'
+date: '2025-01-02'
 ---
 
 Currently reading: 
+
+[The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz](https://www.amazon.com/Splendid-Vile-Churchill-Family-Defiance/dp/0385348711)
 
 [Henry J. Kaiser: Builder of the Modern American West](https://www.amazon.com/Henry-J-Kaiser-Builder-American/dp/0292742266)
 
